@@ -1,0 +1,910 @@
+My IP: 34.203.196.64
+    My City: Ashburn
+    My latitude: 39.0853
+    My longitude: -77.6452
+
+
+Case IP 129.22.12.21 City: Cleveland
+    Cleveland latitude: 41.5074
+    Cleveland longitude: -81.6053
+
+www.google.com
+    Site IP: 172.217.12.228
+    Site city: Mountain View
+    Site latitude: 37.419200000000004
+    Site longitude: -122.0574
+    Site distance from me: 3844.736467944022
+
+    Site distance from Cleveland/CWRU: 3471.3342181169724
+
+www.youtube.com
+    Site IP: 172.217.13.238
+    Site city: Mountain View
+    Site latitude: 37.419200000000004
+    Site longitude: -122.0574
+    Site distance from me: 3844.736467944022
+
+    Site distance from Cleveland/CWRU: 3471.3342181169724
+
+www.facebook.com
+    Site IP: 31.13.69.228
+    Site city: None
+    Site latitude: 38.6582
+    Site longitude: -77.2497
+    Site distance from me: 58.56319959203781
+
+    Site distance from Cleveland/CWRU: 487.55152610251434
+
+www.baidu.com
+    Site IP: 103.235.46.39
+    Site city: Central
+    Site latitude: 22.2833
+    Site longitude: 114.15
+    Site distance from me: 13085.331169760973
+
+    Site distance from Cleveland/CWRU: 12741.891614501274
+
+www.wikipedia.org
+    Site IP: 208.80.154.224
+    Site city: San Francisco
+    Site latitude: 37.7898
+    Site longitude: -122.3942
+    Site distance from me: 3861.424880516608
+
+    Site distance from Cleveland/CWRU: 3485.059882705896
+
+www.reddit.com
+    Site IP: 151.101.33.140
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.yahoo.com
+    Site IP: 98.138.219.231
+    Site city: Sunnyvale
+    Site latitude: 37.4249
+    Site longitude: -122.0074
+    Site distance from me: 3840.324703102449
+
+    Site distance from Cleveland/CWRU: 3466.972341738964
+
+www.qq.com
+    Site IP: 104.96.220.170
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.taobao.com
+    Site IP: 66.231.239.122
+    Site city: Miami
+    Site latitude: 25.7631
+    Site longitude: -80.1911
+    Site distance from me: 1500.7432912772215
+
+    Site distance from Cleveland/CWRU: 1755.9991549992103
+
+www.amazon.com
+    Site IP: 52.85.131.74
+    Site city: Seattle
+    Site latitude: 47.6344
+    Site longitude: -122.3422
+    Site distance from me: 3682.5060627232087
+
+    Site distance from Cleveland/CWRU: 3259.54216532342
+
+www.tmall.com
+    Site IP: 66.231.239.124
+    Site city: Miami
+    Site latitude: 25.7631
+    Site longitude: -80.1911
+    Site distance from me: 1500.7432912772215
+
+    Site distance from Cleveland/CWRU: 1755.9991549992103
+
+www.sohu.com
+    Site IP: 104.254.66.16
+    Site city: None
+    Site latitude: 37.751
+    Site longitude: -97.822
+    Site distance from me: 1760.9337561509826
+
+    Site distance from Cleveland/CWRU: 1448.1325012250195
+
+www.twitter.com
+    Site IP: 104.244.42.193
+    Site city: San Francisco
+    Site latitude: 37.7758
+    Site longitude: -122.4128
+    Site distance from me: 3863.4326316973365
+
+    Site distance from Cleveland/CWRU: 3487.1262173550026
+
+www.live.com
+    Site IP: 204.79.197.212
+    Site city: Redmond
+    Site latitude: 47.6801
+    Site longitude: -122.1206
+    Site distance from me: 3665.761622194225
+
+    Site distance from Cleveland/CWRU: 3242.6908271891784
+
+www.instagram.com
+    Site IP: 31.13.69.174
+    Site city: None
+    Site latitude: 38.6582
+    Site longitude: -77.2497
+    Site distance from me: 58.56319959203781
+
+    Site distance from Cleveland/CWRU: 487.55152610251434
+
+www.vk.com
+    Site IP: 87.240.129.133
+    Site city: None
+    Site latitude: 55.7386
+    Site longitude: 37.6068
+    Site distance from me: 7835.6984370993205
+
+    Site distance from Cleveland/CWRU: 7786.212962698204
+
+www.jd.com
+    Site IP: 192.229.173.173
+    Site city: None
+    Site latitude: 37.751
+    Site longitude: -97.822
+    Site distance from me: 1760.9337561509826
+
+    Site distance from Cleveland/CWRU: 1448.1325012250195
+
+www.sina.com.cn
+    Site IP: 36.51.254.37
+    Site city: Beijing
+    Site latitude: 39.9289
+    Site longitude: 116.3883
+    Site distance from me: 11117.149764619542
+
+    Site distance from Cleveland/CWRU: 10782.232223967922
+
+www.weibo.com
+    Site IP: 180.149.134.141
+    Site city: Beijing
+    Site latitude: 39.9289
+    Site longitude: 116.3883
+    Site distance from me: 11117.149764619542
+
+    Site distance from Cleveland/CWRU: 10782.232223967922
+
+www.yandex.ru
+    Site IP: 5.255.255.77
+    Site city: None
+    Site latitude: 55.7386
+    Site longitude: 37.6068
+    Site distance from me: 7835.6984370993205
+
+    Site distance from Cleveland/CWRU: 7786.212962698204
+
+www.360.cn
+    Site IP: 101.198.193.22
+    Site city: Beijing
+    Site latitude: 39.9289
+    Site longitude: 116.3883
+    Site distance from me: 11117.149764619542
+
+    Site distance from Cleveland/CWRU: 10782.232223967922
+
+www.linkedin.com
+    Site IP: 108.174.10.10
+    Site city: Mountain View
+    Site latitude: 37.419200000000004
+    Site longitude: -122.0574
+    Site distance from me: 3844.736467944022
+
+    Site distance from Cleveland/CWRU: 3471.3342181169724
+
+www.netflix.com
+    Site IP: 52.73.237.45
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.twitch.tv
+    Site IP: 151.101.66.167
+    Site city: San Francisco
+    Site latitude: 37.7697
+    Site longitude: -122.3933
+    Site distance from me: 3861.9793277822387
+
+    Site distance from Cleveland/CWRU: 3485.743940522394
+
+www.office.com
+    Site IP: 13.107.7.190
+    Site city: Redmond
+    Site latitude: 47.6801
+    Site longitude: -122.1206
+    Site distance from me: 3665.761622194225
+
+    Site distance from Cleveland/CWRU: 3242.6908271891784
+
+www.csdn.net
+    Site IP: 47.95.164.112
+    Site city: Hangzhou
+    Site latitude: 30.2936
+    Site longitude: 120.1614
+    Site distance from me: 12086.710929697301
+
+    Site distance from Cleveland/CWRU: 11727.617386366199
+
+www.microsoft.com
+    Site IP: 23.46.60.173
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.t.co
+    Site IP: 199.59.148.12
+    Site city: San Francisco
+    Site latitude: 37.7758
+    Site longitude: -122.4128
+    Site distance from me: 3863.4326316973365
+
+    Site distance from Cleveland/CWRU: 3487.1262173550026
+
+www.yahoo.co.jp
+    Site IP: 182.22.24.252
+    Site city: Tokyo
+    Site latitude: 35.685
+    Site longitude: 139.7514
+    Site distance from me: 10861.101143606033
+
+    Site distance from Cleveland/CWRU: 10456.732243528451
+
+www.microsoftonline.com
+    Site IP: 52.178.167.109
+    Site city: Dublin
+    Site latitude: 53.3331
+    Site longitude: -6.2489
+    Site distance from me: 5470.8977417556125
+
+    Site distance from Cleveland/CWRU: 5545.951729528479
+
+www.xvideos.com
+    Site IP: 185.88.181.3
+    Site city: None
+    Site latitude: 52.3824
+    Site longitude: 4.8995
+    Site distance from me: 6215.71848277753
+
+    Site distance from Cleveland/CWRU: 6277.640415316993
+
+www.ebay.com
+    Site IP: 23.46.61.223
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.alipay.com
+    Site IP: 110.75.245.23
+    Site city: Hangzhou
+    Site latitude: 30.2936
+    Site longitude: 120.1614
+    Site distance from me: 12086.710929697301
+
+    Site distance from Cleveland/CWRU: 11727.617386366199
+
+www.mail.ru
+    Site IP: 94.100.180.70
+    Site city: None
+    Site latitude: 55.7386
+    Site longitude: 37.6068
+    Site distance from me: 7835.6984370993205
+
+    Site distance from Cleveland/CWRU: 7786.212962698204
+
+www.bing.com
+    Site IP: 13.107.21.200
+    Site city: Redmond
+    Site latitude: 47.6801
+    Site longitude: -122.1206
+    Site distance from me: 3665.761622194225
+
+    Site distance from Cleveland/CWRU: 3242.6908271891784
+
+www.msn.com
+    Site IP: 204.79.197.203
+    Site city: Redmond
+    Site latitude: 47.6801
+    Site longitude: -122.1206
+    Site distance from me: 3665.761622194225
+
+    Site distance from Cleveland/CWRU: 3242.6908271891784
+
+www.ok.ru
+    Site IP: 217.20.147.1
+    Site city: None
+    Site latitude: 55.7386
+    Site longitude: 37.6068
+    Site distance from me: 7835.6984370993205
+
+    Site distance from Cleveland/CWRU: 7786.212962698204
+
+www.stackoverflow.com
+    Site IP: 151.101.1.69
+    Site city: San Francisco
+    Site latitude: 37.7697
+    Site longitude: -122.3933
+    Site distance from me: 3861.9793277822387
+
+    Site distance from Cleveland/CWRU: 3485.743940522394
+
+www.wordpress.com
+    Site IP: 192.0.78.12
+    Site city: Denver
+    Site latitude: 39.7594
+    Site longitude: -104.9688
+    Site distance from me: 2339.742063415583
+
+    Site distance from Cleveland/CWRU: 1975.5832038158
+
+www.aliexpress.com
+    Site IP: 23.46.60.20
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.github.com
+    Site IP: 192.30.253.113
+    Site city: San Francisco
+    Site latitude: 37.7697
+    Site longitude: -122.3933
+    Site distance from me: 3861.9793277822387
+
+    Site distance from Cleveland/CWRU: 3485.743940522394
+
+www.whatsapp.com
+    Site IP: 31.13.69.240
+    Site city: None
+    Site latitude: 38.6582
+    Site longitude: -77.2497
+    Site distance from me: 58.56319959203781
+
+    Site distance from Cleveland/CWRU: 487.55152610251434
+
+www.imgur.com
+    Site IP: 151.101.200.193
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.tumblr.com
+    Site IP: 69.147.92.13
+    Site city: Sunnyvale
+    Site latitude: 37.4249
+    Site longitude: -122.0074
+    Site distance from me: 3840.324703102449
+
+    Site distance from Cleveland/CWRU: 3466.972341738964
+
+www.imdb.com
+    Site IP: 52.94.228.167
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.wikia.com
+    Site IP: 151.101.192.194
+    Site city: San Francisco
+    Site latitude: 37.7697
+    Site longitude: -122.3933
+    Site distance from me: 3861.9793277822387
+
+    Site distance from Cleveland/CWRU: 3485.743940522394
+
+www.blogspot.com
+    Site IP: 172.217.12.233
+    Site city: Mountain View
+    Site latitude: 37.419200000000004
+    Site longitude: -122.0574
+    Site distance from me: 3844.736467944022
+
+    Site distance from Cleveland/CWRU: 3471.3342181169724
+
+www.hao123.com
+    Site IP: 103.235.46.234
+    Site city: Central
+    Site latitude: 22.2833
+    Site longitude: 114.15
+    Site distance from me: 13085.331169760973
+
+    Site distance from Cleveland/CWRU: 12741.891614501274
+
+www.amazon.co.jp
+    Site IP: 54.192.192.21
+    Site city: Seattle
+    Site latitude: 47.6103
+    Site longitude: -122.3341
+    Site distance from me: 3681.9841720026184
+
+    Site distance from Cleveland/CWRU: 3259.0864095136217
+
+www.livejasmin.com
+    Site IP: 109.71.161.200
+    Site city: None
+    Site latitude: 49.75
+    Site longitude: 6.1667
+    Site distance from me: 6410.904793313955
+
+    Site distance from Cleveland/CWRU: 6490.890245553858
+
+www.deloton.com
+    Site IP: 52.51.19.158
+    Site city: Dublin
+    Site latitude: 53.3331
+    Site longitude: -6.2489
+    Site distance from me: 5470.8977417556125
+
+    Site distance from Cleveland/CWRU: 5545.951729528479
+
+www.paypal.com
+    Site IP: 23.46.62.134
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.apple.com
+    Site IP: 104.91.73.211
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.xhamster.com
+    Site IP: 88.208.29.24
+    Site city: None
+    Site latitude: 51.9167
+    Site longitude: 4.5
+    Site distance from me: 6209.4776016164815
+
+    Site distance from Cleveland/CWRU: 6276.096960988079
+
+www.diply.com
+    Site IP: 104.91.33.242
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.tribunnews.com
+    Site IP: 52.84.128.171
+    Site city: Seattle
+    Site latitude: 47.6344
+    Site longitude: -122.3422
+    Site distance from me: 3682.5060627232087
+
+    Site distance from Cleveland/CWRU: 3259.54216532342
+
+www.savefrom.net
+    Site IP: 146.185.29.109
+    Site city: None
+    Site latitude: 51.4964
+    Site longitude: -0.1224
+    Site distance from me: 5927.006947226035
+
+    Site distance from Cleveland/CWRU: 6007.123513995036
+
+www.pinterest.com
+    Site IP: 151.101.32.84
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.coccoc.com
+    Site IP: 123.30.175.29
+    Site city: Hanoi
+    Site latitude: 21.0333
+    Site longitude: 105.85
+    Site distance from me: 13324.069204684722
+
+    Site distance from Cleveland/CWRU: 13022.204236001944
+
+www.popads.net
+    Site IP: 216.21.13.13
+    Site city: None
+    Site latitude: 37.751
+    Site longitude: -97.822
+    Site distance from me: 1760.9337561509826
+
+    Site distance from Cleveland/CWRU: 1448.1325012250195
+
+www.adobe.com
+    Site IP: 104.112.37.223
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.fbcdn.net
+    Site IP: 31.13.69.228
+    Site city: None
+    Site latitude: 38.6582
+    Site longitude: -77.2497
+    Site distance from me: 58.56319959203781
+
+    Site distance from Cleveland/CWRU: 487.55152610251434
+
+www.bongacams.com
+    Site IP: 216.18.168.1
+    Site city: Waltham
+    Site latitude: 42.403
+    Site longitude: -71.259
+    Site distance from me: 652.2235747975221
+
+    Site distance from Cleveland/CWRU: 861.0301564331837
+
+www.dropbox.com
+    Site IP: 162.125.6.1
+    Site city: San Francisco
+    Site latitude: 37.7697
+    Site longitude: -122.3933
+    Site distance from me: 3861.9793277822387
+
+    Site distance from Cleveland/CWRU: 3485.743940522394
+
+www.xnxx.com
+    Site IP: 185.88.181.53
+    Site city: None
+    Site latitude: 52.3824
+    Site longitude: 4.8995
+    Site distance from me: 6215.71848277753
+
+    Site distance from Cleveland/CWRU: 6277.640415316993
+
+www.amazonaws.com
+    Site IP: 207.171.166.22
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.amazon.de
+    Site IP: 54.230.194.68
+    Site city: Seattle
+    Site latitude: 47.542
+    Site longitude: -122.3123
+    Site distance from me: 3680.5983129471033
+
+    Site distance from Cleveland/CWRU: 3257.889513336465
+
+www.txxx.com
+    Site IP: 104.20.72.110
+    Site city: None
+    Site latitude: 37.751
+    Site longitude: -97.822
+    Site distance from me: 1760.9337561509826
+
+    Site distance from Cleveland/CWRU: 1448.1325012250195
+
+www.pixnet.net
+    Site IP: 103.23.108.200
+    Site city: Taipei
+    Site latitude: 25.0478
+    Site longitude: 121.5318
+    Site distance from me: 12613.843991599022
+
+    Site distance from Cleveland/CWRU: 12243.554954817973
+
+www.tianya.cn
+    Site IP: 124.225.65.154
+    Site city: Haikou
+    Site latitude: 20.0458
+    Site longitude: 110.3417
+    Site distance from me: 13391.418653991543
+
+    Site distance from Cleveland/CWRU: 13064.46730682767
+
+www.bbc.com
+    Site IP: 151.101.200.81
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.thestartmagazine.com
+    Site IP: 52.85.131.130
+    Site city: Seattle
+    Site latitude: 47.6344
+    Site longitude: -122.3422
+    Site distance from me: 3682.5060627232087
+
+    Site distance from Cleveland/CWRU: 3259.54216532342
+
+www.quora.com
+    Site IP: 151.101.201.2
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.amazon.in
+    Site IP: 54.230.193.10
+    Site city: Seattle
+    Site latitude: 47.542
+    Site longitude: -122.3123
+    Site distance from me: 3680.5983129471033
+
+    Site distance from Cleveland/CWRU: 3257.889513336465
+
+www.amazon.co.uk
+    Site IP: 54.230.193.157
+    Site city: Seattle
+    Site latitude: 47.542
+    Site longitude: -122.3123
+    Site distance from me: 3680.5983129471033
+
+    Site distance from Cleveland/CWRU: 3257.889513336465
+
+www.cnblogs.com
+    Site IP: 42.121.252.58
+    Site city: Hangzhou
+    Site latitude: 30.2936
+    Site longitude: 120.1614
+    Site distance from me: 12086.710929697301
+
+    Site distance from Cleveland/CWRU: 11727.617386366199
+
+www.bbc.co.uk
+    Site IP: 212.58.246.95
+    Site city: None
+    Site latitude: 51.4964
+    Site longitude: -0.1224
+    Site distance from me: 5927.006947226035
+
+    Site distance from Cleveland/CWRU: 6007.123513995036
+
+www.cnn.com
+    Site IP: 151.101.201.67
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.rakuten.co.jp
+    Site IP: 23.46.60.144
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.espn.com
+    Site IP: 54.81.98.150
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.k618.cn
+    Site IP: 157.185.154.31
+    Site city: Pasadena
+    Site latitude: 34.147
+    Site longitude: -118.1392
+    Site distance from me: 3626.3756187659174
+
+    Site distance from Cleveland/CWRU: 3286.047920688282
+
+www.booking.com
+    Site IP: 185.28.222.11
+    Site city: None
+    Site latitude: 52.3824
+    Site longitude: 4.8995
+    Site distance from me: 6215.71848277753
+
+    Site distance from Cleveland/CWRU: 6277.640415316993
+
+www.soundcloud.com
+    Site IP: 52.85.134.76
+    Site city: Seattle
+    Site latitude: 47.6344
+    Site longitude: -122.3422
+    Site distance from me: 3682.5060627232087
+
+    Site distance from Cleveland/CWRU: 3259.54216532342
+
+www.nicovideo.jp
+    Site IP: 202.248.110.184
+    Site city: Nara
+    Site latitude: 34.6853
+    Site longitude: 135.8328
+    Site distance from me: 11122.281326493758
+
+    Site distance from Cleveland/CWRU: 10724.414749778229
+
+www.chaturbate.com
+    Site IP: 104.16.147.241
+    Site city: None
+    Site latitude: 37.751
+    Site longitude: -97.822
+    Site distance from me: 1760.9337561509826
+
+    Site distance from Cleveland/CWRU: 1448.1325012250195
+
+www.nytimes.com
+    Site IP: 151.101.33.164
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.craigslist.org
+    Site IP: 208.82.237.225
+    Site city: San Francisco
+    Site latitude: 37.7607
+    Site longitude: -122.4842
+    Site distance from me: 3869.929147303762
+
+    Site distance from Cleveland/CWRU: 3493.6011871904398
+
+www.stackexchange.com
+    Site IP: 151.101.193.69
+    Site city: San Francisco
+    Site latitude: 37.7697
+    Site longitude: -122.3933
+    Site distance from me: 3861.9793277822387
+
+    Site distance from Cleveland/CWRU: 3485.743940522394
+
+www.xinhuanet.com
+    Site IP: 104.96.220.130
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.ask.com
+    Site IP: 104.112.44.56
+    Site city: Cambridge
+    Site latitude: 42.3626
+    Site longitude: -71.0843
+    Site distance from me: 662.0609673192383
+
+    Site distance from Cleveland/CWRU: 875.1350348609074
+
+www.so.com
+    Site IP: 104.192.110.226
+    Site city: None
+    Site latitude: 37.751
+    Site longitude: -97.822
+    Site distance from me: 1760.9337561509826
+
+    Site distance from Cleveland/CWRU: 1448.1325012250195
+
+www.tokopedia.com
+    Site IP: 47.74.175.31
+    Site city: Singapore
+    Site latitude: 1.2931
+    Site longitude: 103.8558
+    Site distance from me: 15526.981178007
+
+    Site distance from Cleveland/CWRU: 15228.410819229637
+
+www.soso.com
+    Site IP: 118.191.216.42
+    Site city: Guangzhou
+    Site latitude: 23.1167
+    Site longitude: 113.25
+    Site distance from me: 13009.886244215557
+
+    Site distance from Cleveland/CWRU: 12671.422366830635
+
+www.detik.com
+    Site IP: 203.190.242.211
+    Site city: Jakarta
+    Site latitude: -6.1744
+    Site longitude: 106.8294
+    Site distance from me: 16332.685747483172
+
+    Site distance from Cleveland/CWRU: 16002.89411486463
+
+www.dailymotion.com
+    Site IP: 195.8.215.136
+    Site city: None
+    Site latitude: 48.8582
+    Site longitude: 2.3387000000000002
+    Site distance from me: 6194.561070275841
+
+    Site distance from Cleveland/CWRU: 6290.978790755758
+
+www.nih.gov
+    Site IP: 50.19.97.55
+    Site city: Ashburn
+    Site latitude: 39.0853
+    Site longitude: -77.6452
+    Site distance from me: 0.0
+
+    Site distance from Cleveland/CWRU: 430.5423865382099
+
+www.providr.com
+    Site IP: 104.27.149.33
+    Site city: None
+    Site latitude: 37.751
+    Site longitude: -97.822
+    Site distance from me: 1760.9337561509826
+
+    Site distance from Cleveland/CWRU: 1448.1325012250195
+
+www.salesforce.com
+    Site IP: 96.43.144.26
+    Site city: San Francisco
+    Site latitude: 37.7898
+    Site longitude: -122.3942
+    Site distance from me: 3861.424880516608
+
+    Site distance from Cleveland/CWRU: 3485.059882705896
+
+www.vimeo.com
+    Site IP: 151.101.128.217
+    Site city: San Francisco
+    Site latitude: 37.7697
+    Site longitude: -122.3933
+    Site distance from me: 3861.9793277822387
+
+    Site distance from Cleveland/CWRU: 3485.743940522394
+
+www.spotify.com
+    Site IP: 104.154.127.47
+    Site city: Mountain View
+    Site latitude: 37.419200000000004
+    Site longitude: -122.0574
+    Site distance from me: 3844.736467944022
+
+    Site distance from Cleveland/CWRU: 3471.3342181169724
+

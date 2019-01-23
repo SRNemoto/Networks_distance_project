@@ -1,0 +1,773 @@
+Message sent to www.google.com at 172.217.12.228
+Message sent to www.youtube.com at 172.217.13.78
+Message sent to www.facebook.com at 31.13.69.228
+Message sent to www.baidu.com at 103.235.46.40
+Message sent to www.wikipedia.org at 208.80.154.224
+Message sent to www.reddit.com at 151.101.33.140
+Message sent to www.yahoo.com at 98.138.219.231
+Message sent to www.qq.com at 104.96.220.115
+Message sent to www.taobao.com at 66.231.239.122
+Message sent to www.amazon.com at 104.112.42.112
+Message sent to www.tmall.com at 66.231.239.124
+Message sent to www.sohu.com at 104.254.66.16
+Message sent to www.twitter.com at 104.244.42.1
+Message sent to www.live.com at 204.79.197.212
+Message sent to www.instagram.com at 31.13.69.174
+Message sent to www.vk.com at 87.240.182.224
+Message sent to www.jd.com at 192.229.173.173
+Message sent to www.sina.com.cn at 36.51.254.37
+Message sent to www.weibo.com at 180.149.134.142
+Message sent to www.yandex.ru at 77.88.55.70
+Message sent to www.360.cn at 101.198.193.22
+Message sent to www.linkedin.com at 108.174.10.10
+Message sent to www.netflix.com at 54.208.168.102
+Message sent to www.twitch.tv at 151.101.2.167
+Message sent to www.office.com at 13.107.7.190
+Message sent to www.csdn.net at 47.95.164.112
+Message sent to www.microsoft.com at 23.46.60.173
+Message sent to www.t.co at 199.59.148.12
+Message sent to www.yahoo.co.jp at 182.22.25.252
+Message sent to www.microsoftonline.com at 40.84.199.233
+Message sent to www.xvideos.com at 185.88.181.10
+Message sent to www.ebay.com at 23.46.61.223
+Message sent to www.alipay.com at 110.75.244.41
+Message sent to www.mail.ru at 217.69.139.70
+Message sent to www.bing.com at 13.107.21.200
+Message sent to www.msn.com at 204.79.197.203
+Message sent to www.ok.ru at 217.20.155.13
+Message sent to www.stackoverflow.com at 151.101.129.69
+Message sent to www.wordpress.com at 192.0.78.13
+Message sent to www.aliexpress.com at 23.46.60.20
+Message sent to www.github.com at 192.30.253.113
+Message sent to www.whatsapp.com at 31.13.69.240
+Message sent to www.imgur.com at 151.101.200.193
+Message sent to www.tumblr.com at 69.147.92.13
+Message sent to www.imdb.com at 52.94.228.167
+Message sent to www.wikia.com at 151.101.128.194
+Message sent to www.blogspot.com at 172.217.12.233
+Message sent to www.hao123.com at 103.235.46.234
+Message sent to www.amazon.co.jp at 54.192.192.21
+Message sent to www.livejasmin.com at 109.71.161.200
+Message sent to www.deloton.com at 52.51.19.158
+Message sent to www.paypal.com at 23.46.62.134
+Message sent to www.apple.com at 104.91.73.211
+Message sent to www.xhamster.com at 88.208.18.30
+Message sent to www.diply.com at 23.50.230.30
+Message sent to www.tribunnews.com at 52.85.131.65
+Message sent to www.savefrom.net at 146.185.29.109
+Message sent to www.pinterest.com at 151.101.32.84
+Message sent to www.coccoc.com at 123.30.175.29
+Message sent to www.popads.net at 216.21.13.12
+Message sent to www.adobe.com at 104.112.37.223
+Message sent to www.fbcdn.net at 31.13.69.228
+Message sent to www.bongacams.com at 216.18.168.1
+Message sent to www.dropbox.com at 162.125.6.1
+Message sent to www.xnxx.com at 185.88.181.55
+Message sent to www.amazonaws.com at 72.21.206.80
+Message sent to www.amazon.de at 54.230.194.68
+Message sent to www.txxx.com at 104.20.71.110
+Message sent to www.pixnet.net at 103.23.108.200
+Message sent to www.tianya.cn at 124.225.65.154
+Message sent to www.bbc.com at 151.101.32.81
+Message sent to www.thestartmagazine.com at 52.85.131.114
+Message sent to www.quora.com at 151.101.201.2
+Message sent to www.amazon.in at 54.230.193.10
+Message sent to www.amazon.co.uk at 104.112.41.146
+Message sent to www.cnblogs.com at 42.121.252.58
+Message sent to www.bbc.co.uk at 212.58.244.71
+Message sent to www.cnn.com at 151.101.33.67
+Message sent to www.rakuten.co.jp at 23.46.60.144
+Message sent to www.espn.com at 34.197.11.167
+Message sent to www.k618.cn at 157.185.154.31
+Message sent to www.booking.com at 185.28.222.11
+Message sent to www.soundcloud.com at 52.85.134.96
+Message sent to www.nicovideo.jp at 202.248.110.184
+Message sent to www.chaturbate.com at 104.16.146.241
+Message sent to www.nytimes.com at 151.101.33.164
+Message sent to www.craigslist.org at 208.82.237.225
+Message sent to www.stackexchange.com at 151.101.129.69
+Message sent to www.xinhuanet.com at 104.96.220.160
+Message sent to www.ask.com at 104.112.44.56
+Message sent to www.so.com at 104.192.110.226
+Message sent to www.tokopedia.com at 47.74.174.71
+Message sent to www.soso.com at 118.191.216.57
+Message sent to www.detik.com at 103.49.221.211
+Message sent to www.dailymotion.com at 195.8.215.136
+Message sent to www.nih.gov at 50.16.236.21
+Message sent to www.providr.com at 104.27.148.33
+Message sent to www.salesforce.com at 96.43.145.26
+Message sent to www.vimeo.com at 151.101.64.217
+Message sent to www.spotify.com at 104.154.127.47
+sent to 172.217.12.228 at 1524624791.8119123
+sent to 172.217.13.78 at 1524624791.8126414
+sent to 31.13.69.228 at 1524624791.814864
+sent to 103.235.46.40 at 1524624791.8155024
+sent to 208.80.154.224 at 1524624791.8161833
+sent to 151.101.33.140 at 1524624791.8190124
+sent to 98.138.219.231 at 1524624791.8222604
+sent to 104.96.220.115 at 1524624791.8254747
+sent to 66.231.239.122 at 1524624792.0682232
+sent to 104.112.42.112 at 1524624792.0801654
+sent to 66.231.239.124 at 1524624792.2160058
+sent to 104.254.66.16 at 1524624792.2172382
+sent to 104.244.42.1 at 1524624792.2181
+sent to 204.79.197.212 at 1524624792.2188292
+sent to 31.13.69.174 at 1524624792.2219582
+sent to 87.240.182.224 at 1524624792.2226543
+sent to 192.229.173.173 at 1524624792.688547
+sent to 36.51.254.37 at 1524624792.9109573
+sent to 180.149.134.142 at 1524624793.2318273
+sent to 77.88.55.70 at 1524624793.2326093
+sent to 101.198.193.22 at 1524624793.233359
+sent to 108.174.10.10 at 1524624793.2339292
+sent to 54.208.168.102 at 1524624793.238219
+sent to 151.101.2.167 at 1524624793.238887
+sent to 13.107.7.190 at 1524624793.239593
+sent to 47.95.164.112 at 1524624793.4750485
+sent to 23.46.60.173 at 1524624793.4785097
+sent to 199.59.148.12 at 1524624793.4792173
+sent to 182.22.25.252 at 1524624793.6597571
+sent to 40.84.199.233 at 1524624793.6607113
+sent to 185.88.181.10 at 1524624793.669902
+sent to 23.46.61.223 at 1524624793.6731339
+sent to 110.75.244.41 at 1524624793.9734833
+sent to 217.69.139.70 at 1524624794.1020272
+sent to 13.107.21.200 at 1524624794.1117024
+sent to 204.79.197.203 at 1524624794.1124327
+sent to 217.20.155.13 at 1524624794.1131837
+sent to 151.101.129.69 at 1524624794.1140125
+sent to 192.0.78.13 at 1524624794.1147144
+sent to 23.46.60.20 at 1524624794.3495023
+sent to 192.30.253.113 at 1524624794.353569
+sent to 31.13.69.240 at 1524624794.3564935
+sent to 151.101.200.193 at 1524624794.359649
+sent to 69.147.92.13 at 1524624794.370264
+sent to 52.94.228.167 at 1524624794.3737607
+sent to 151.101.128.194 at 1524624794.3745284
+sent to 172.217.12.233 at 1524624794.375188
+sent to 103.235.46.234 at 1524624794.3758347
+sent to 54.192.192.21 at 1524624794.3822763
+sent to 109.71.161.200 at 1524624794.3829255
+sent to 52.51.19.158 at 1524624794.3835504
+sent to 23.46.62.134 at 1524624794.3908486
+sent to 104.91.73.211 at 1524624794.3940485
+sent to 88.208.18.30 at 1524624794.3947937
+sent to 23.50.230.30 at 1524624794.398084
+sent to 52.85.131.65 at 1524624794.4069812
+sent to 146.185.29.109 at 1524624794.4076586
+sent to 151.101.32.84 at 1524624794.4107285
+sent to 123.30.175.29 at 1524624794.4114256
+sent to 216.21.13.12 at 1524624794.4120383
+sent to 104.112.37.223 at 1524624794.4226832
+sent to 31.13.69.228 at 1524624794.423389
+sent to 216.18.168.1 at 1524624794.5136595
+sent to 162.125.6.1 at 1524624794.5156367
+sent to 185.88.181.55 at 1524624794.5163846
+sent to 72.21.206.80 at 1524624794.5195591
+sent to 54.230.194.68 at 1524624794.5342426
+sent to 104.20.71.110 at 1524624794.5349693
+sent to 103.23.108.200 at 1524624794.5356169
+sent to 124.225.65.154 at 1524624794.536213
+sent to 151.101.32.81 at 1524624794.5391874
+sent to 52.85.131.114 at 1524624794.5547206
+sent to 151.101.201.2 at 1524624794.5575163
+sent to 54.230.193.10 at 1524624794.5621264
+sent to 104.112.41.146 at 1524624794.6691394
+sent to 42.121.252.58 at 1524624794.6699593
+sent to 212.58.244.71 at 1524624794.6707191
+sent to 151.101.33.67 at 1524624794.6738882
+sent to 23.46.60.144 at 1524624794.6773584
+sent to 34.197.11.167 at 1524624794.6891196
+sent to 157.185.154.31 at 1524624794.9934375
+sent to 185.28.222.11 at 1524624794.9971879
+sent to 52.85.134.96 at 1524624795.0062354
+sent to 202.248.110.184 at 1524624795.0069768
+sent to 104.16.146.241 at 1524624795.0076041
+sent to 151.101.33.164 at 1524624795.0104322
+sent to 208.82.237.225 at 1524624795.011019
+sent to 151.101.129.69 at 1524624795.0116463
+sent to 104.96.220.160 at 1524624795.0149887
+sent to 104.112.44.56 at 1524624795.0179646
+sent to 104.192.110.226 at 1524624795.120048
+sent to 47.74.174.71 at 1524624795.1287212
+sent to 118.191.216.57 at 1524624795.1295328
+sent to 103.49.221.211 at 1524624795.1301823
+sent to 195.8.215.136 at 1524624795.1309085
+sent to 50.16.236.21 at 1524624795.1349974
+sent to 104.27.148.33 at 1524624795.1358805
+sent to 96.43.145.26 at 1524624795.1392524
+sent to 151.101.64.217 at 1524624795.1399415
+sent to 104.154.127.47 at 1524624795.1406045
+Recieved Message from: 172.217.12.228
+Recieved Message from: 172.217.13.78
+Recieved Message from: 31.13.69.228
+Recieved Message from: 104.96.220.115
+Recieved Message from: 98.138.219.231
+Recieved Message from: 104.112.42.112
+Recieved Message from: 31.13.69.174
+Recieved Message from: 104.244.42.1
+Recieved Message from: 192.229.173.173
+Recieved Message from: 36.51.254.37
+Recieved Message from: 101.198.193.22
+Recieved Message from: 77.88.55.70
+Recieved Message from: 23.46.60.173
+Recieved Message from: 199.59.148.12
+Recieved Message from: 23.46.61.223
+Recieved Message from: 192.0.78.13
+Recieved Message from: 23.46.60.20
+Recieved Message from: 192.30.253.113
+Recieved Message from: 31.13.69.240
+Recieved Message from: 69.147.92.13
+Recieved Message from: 172.217.12.233
+Recieved Message from: 23.46.62.134
+Recieved Message from: 23.50.230.30
+Recieved Message from: 104.91.73.211
+Recieved Message from: 52.85.131.65
+Recieved Message from: 104.112.37.223
+Recieved Message from: 31.13.69.228
+Recieved Message from: 162.125.6.1
+Recieved Message from: 104.20.71.110
+Recieved Message from: 52.85.131.114
+Recieved Message from: 104.112.41.146
+Recieved Message from: 23.46.60.144
+Recieved Message from: 103.23.108.200
+Recieved Message from: 124.225.65.154
+Recieved Message from: 52.85.134.96
+Recieved Message from: 104.16.146.241
+Recieved Message from: 104.96.220.160
+Recieved Message from: 104.112.44.56
+Recieved Message from: 157.185.154.31
+Recieved Message from: 104.27.148.33
+Recieved Message from: 104.154.127.47
+Recieved Message from: 104.192.110.226
+Recieved Message from: 195.8.215.136
+Recieved Message from: 103.49.221.211
+Parsed bytes for 172.217.12.228
+Parsed bytes for 172.217.13.78
+Parsed bytes for 98.138.219.231
+Parsed bytes for 104.96.220.115
+Parsed bytes for 104.112.42.112
+Parsed bytes for 104.244.42.1
+Parsed bytes for 31.13.69.174
+Parsed bytes for 192.229.173.173
+Parsed bytes for 36.51.254.37
+Parsed bytes for 77.88.55.70
+Parsed bytes for 101.198.193.22
+Parsed bytes for 23.46.60.173
+Parsed bytes for 199.59.148.12
+Parsed bytes for 23.46.61.223
+Parsed bytes for 192.0.78.13
+Parsed bytes for 23.46.60.20
+Parsed bytes for 192.30.253.113
+Parsed bytes for 31.13.69.240
+Parsed bytes for 69.147.92.13
+Parsed bytes for 172.217.12.233
+Parsed bytes for 23.46.62.134
+Parsed bytes for 104.91.73.211
+Parsed bytes for 23.50.230.30
+Parsed bytes for 52.85.131.65
+Parsed bytes for 104.112.37.223
+Parsed bytes for 31.13.69.228
+Parsed bytes for 162.125.6.1
+Parsed bytes for 104.20.71.110
+Parsed bytes for 103.23.108.200
+Parsed bytes for 124.225.65.154
+Parsed bytes for 52.85.131.114
+Parsed bytes for 104.112.41.146
+Parsed bytes for 23.46.60.144
+Parsed bytes for 157.185.154.31
+Parsed bytes for 52.85.134.96
+Parsed bytes for 104.16.146.241
+Parsed bytes for 104.96.220.160
+Parsed bytes for 104.112.44.56
+Parsed bytes for 104.192.110.226
+Parsed bytes for 103.49.221.211
+Parsed bytes for 195.8.215.136
+Parsed bytes for 104.27.148.33
+Parsed bytes for 104.154.127.47
+Website: www.google.com
+    IP: 172.217.12.228
+    RTT: 3.3291192054748535
+    Hops: 14
+    Payload Bytes: 28
+
+Website: www.youtube.com
+    IP: 172.217.13.78
+    RTT: 3.3284432888031006
+    Hops: 14
+    Payload Bytes: 28
+
+Website: www.facebook.com
+    IP: 31.13.69.228
+    No response
+
+Website: www.baidu.com
+    IP: 103.235.46.40
+    No response
+
+Website: www.wikipedia.org
+    IP: 208.80.154.224
+    No response
+
+Website: www.reddit.com
+    IP: 151.101.33.140
+    No response
+
+Website: www.yahoo.com
+    IP: 98.138.219.231
+    RTT: 3.3189198970794678
+    Hops: 17
+    Payload Bytes: 28
+
+Website: www.qq.com
+    IP: 104.96.220.115
+    RTT: 3.3156721591949463
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.taobao.com
+    IP: 66.231.239.122
+    No response
+
+Website: www.amazon.com
+    IP: 104.112.42.112
+    RTT: 3.0610439777374268
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.tmall.com
+    IP: 66.231.239.124
+    No response
+
+Website: www.sohu.com
+    IP: 104.254.66.16
+    No response
+
+Website: www.twitter.com
+    IP: 104.244.42.1
+    RTT: 2.923166036605835
+    Hops: 13
+    Payload Bytes: 28
+
+Website: www.live.com
+    IP: 204.79.197.212
+    No response
+
+Website: www.instagram.com
+    IP: 31.13.69.174
+    RTT: 2.919280529022217
+    Hops: 14
+    Payload Bytes: 548
+
+Website: www.vk.com
+    IP: 87.240.182.224
+    No response
+
+Website: www.jd.com
+    IP: 192.229.173.173
+    RTT: 2.452746868133545
+    Hops: 13
+    Payload Bytes: 548
+
+Website: www.sina.com.cn
+    IP: 36.51.254.37
+    RTT: 2.2303643226623535
+    Hops: 20
+    Payload Bytes: 548
+
+Website: www.weibo.com
+    IP: 180.149.134.142
+    No response
+
+Website: www.yandex.ru
+    IP: 77.88.55.70
+    RTT: 1.908769130706787
+    Hops: 20
+    Payload Bytes: 548
+
+Website: www.360.cn
+    IP: 101.198.193.22
+    RTT: 1.9079909324645996
+    Hops: 22
+    Payload Bytes: 548
+
+Website: www.linkedin.com
+    IP: 108.174.10.10
+    No response
+
+Website: www.netflix.com
+    IP: 54.208.168.102
+    No response
+
+Website: www.twitch.tv
+    IP: 151.101.2.167
+    No response
+
+Website: www.office.com
+    IP: 13.107.7.190
+    No response
+
+Website: www.csdn.net
+    IP: 47.95.164.112
+    No response
+
+Website: www.microsoft.com
+    IP: 23.46.60.173
+    RTT: 1.662895917892456
+    Hops: 15
+    Payload Bytes: 548
+
+Website: www.t.co
+    IP: 199.59.148.12
+    RTT: 1.6622157096862793
+    Hops: 13
+    Payload Bytes: 28
+
+Website: www.yahoo.co.jp
+    IP: 182.22.25.252
+    No response
+
+Website: www.microsoftonline.com
+    IP: 40.84.199.233
+    No response
+
+Website: www.xvideos.com
+    IP: 185.88.181.10
+    No response
+
+Website: www.ebay.com
+    IP: 23.46.61.223
+    RTT: 1.4683279991149902
+    Hops: 15
+    Payload Bytes: 548
+
+Website: www.alipay.com
+    IP: 110.75.244.41
+    No response
+
+Website: www.mail.ru
+    IP: 217.69.139.70
+    No response
+
+Website: www.bing.com
+    IP: 13.107.21.200
+    No response
+
+Website: www.msn.com
+    IP: 204.79.197.203
+    No response
+
+Website: www.ok.ru
+    IP: 217.20.155.13
+    No response
+
+Website: www.stackoverflow.com
+    IP: 151.101.129.69
+    No response
+
+Website: www.wordpress.com
+    IP: 192.0.78.13
+    RTT: 1.0267751216888428
+    Hops: 14
+    Payload Bytes: 548
+
+Website: www.aliexpress.com
+    IP: 23.46.60.20
+    RTT: 0.7920141220092773
+    Hops: 13
+    Payload Bytes: 548
+
+Website: www.github.com
+    IP: 192.30.253.113
+    RTT: 0.7879743576049805
+    Hops: 16
+    Payload Bytes: 548
+
+Website: www.whatsapp.com
+    IP: 31.13.69.240
+    RTT: 0.7850778102874756
+    Hops: 14
+    Payload Bytes: 548
+
+Website: www.imgur.com
+    IP: 151.101.200.193
+    No response
+
+Website: www.tumblr.com
+    IP: 69.147.92.13
+    RTT: 0.7713346481323242
+    Hops: 14
+    Payload Bytes: 28
+
+Website: www.imdb.com
+    IP: 52.94.228.167
+    No response
+
+Website: www.wikia.com
+    IP: 151.101.128.194
+    No response
+
+Website: www.blogspot.com
+    IP: 172.217.12.233
+    RTT: 0.766437292098999
+    Hops: 14
+    Payload Bytes: 28
+
+Website: www.hao123.com
+    IP: 103.235.46.234
+    No response
+
+Website: www.amazon.co.jp
+    IP: 54.192.192.21
+    No response
+
+Website: www.livejasmin.com
+    IP: 109.71.161.200
+    No response
+
+Website: www.deloton.com
+    IP: 52.51.19.158
+    No response
+
+Website: www.paypal.com
+    IP: 23.46.62.134
+    RTT: 0.750805139541626
+    Hops: 13
+    Payload Bytes: 548
+
+Website: www.apple.com
+    IP: 104.91.73.211
+    RTT: 0.7476601600646973
+    Hops: 13
+    Payload Bytes: 548
+
+Website: www.xhamster.com
+    IP: 88.208.18.30
+    No response
+
+Website: www.diply.com
+    IP: 23.50.230.30
+    RTT: 0.7435972690582275
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.tribunnews.com
+    IP: 52.85.131.65
+    RTT: 0.7347562313079834
+    Hops: 15
+    Payload Bytes: 548
+
+Website: www.savefrom.net
+    IP: 146.185.29.109
+    No response
+
+Website: www.pinterest.com
+    IP: 151.101.32.84
+    No response
+
+Website: www.coccoc.com
+    IP: 123.30.175.29
+    No response
+
+Website: www.popads.net
+    IP: 216.21.13.12
+    No response
+
+Website: www.adobe.com
+    IP: 104.112.37.223
+    RTT: 0.7190821170806885
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.fbcdn.net
+    IP: 31.13.69.228
+    RTT: 1524624794.424065
+    Hops: 14
+    Payload Bytes: 548
+
+Website: www.bongacams.com
+    IP: 216.18.168.1
+    No response
+
+Website: www.dropbox.com
+    IP: 162.125.6.1
+    RTT: 0.6261847019195557
+    Hops: 13
+    Payload Bytes: 548
+
+Website: www.xnxx.com
+    IP: 185.88.181.55
+    No response
+
+Website: www.amazonaws.com
+    IP: 72.21.206.80
+    No response
+
+Website: www.amazon.de
+    IP: 54.230.194.68
+    No response
+
+Website: www.txxx.com
+    IP: 104.20.71.110
+    RTT: 0.606879472732544
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.pixnet.net
+    IP: 103.23.108.200
+    RTT: 0.6063451766967773
+    Hops: 30
+    Payload Bytes: 28
+
+Website: www.tianya.cn
+    IP: 124.225.65.154
+    RTT: 0.6057770252227783
+    Hops: 27
+    Payload Bytes: 28
+
+Website: www.bbc.com
+    IP: 151.101.32.81
+    No response
+
+Website: www.thestartmagazine.com
+    IP: 52.85.131.114
+    RTT: 0.5871567726135254
+    Hops: 15
+    Payload Bytes: 548
+
+Website: www.quora.com
+    IP: 151.101.201.2
+    No response
+
+Website: www.amazon.in
+    IP: 54.230.193.10
+    No response
+
+Website: www.amazon.co.uk
+    IP: 104.112.41.146
+    RTT: 0.4727668762207031
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.cnblogs.com
+    IP: 42.121.252.58
+    No response
+
+Website: www.bbc.co.uk
+    IP: 212.58.244.71
+    No response
+
+Website: www.cnn.com
+    IP: 151.101.33.67
+    No response
+
+Website: www.rakuten.co.jp
+    IP: 23.46.60.144
+    RTT: 0.46457600593566895
+    Hops: 15
+    Payload Bytes: 548
+
+Website: www.espn.com
+    IP: 34.197.11.167
+    No response
+
+Website: www.k618.cn
+    IP: 157.185.154.31
+    RTT: 0.1486949920654297
+    Hops: 18
+    Payload Bytes: 548
+
+Website: www.booking.com
+    IP: 185.28.222.11
+    No response
+
+Website: www.soundcloud.com
+    IP: 52.85.134.96
+    RTT: 0.13578271865844727
+    Hops: 15
+    Payload Bytes: 548
+
+Website: www.nicovideo.jp
+    IP: 202.248.110.184
+    No response
+
+Website: www.chaturbate.com
+    IP: 104.16.146.241
+    RTT: 0.13444185256958008
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.nytimes.com
+    IP: 151.101.33.164
+    No response
+
+Website: www.craigslist.org
+    IP: 208.82.237.225
+    No response
+
+Website: www.stackexchange.com
+    IP: 151.101.129.69
+    No response
+
+Website: www.xinhuanet.com
+    IP: 104.96.220.160
+    RTT: 0.12708616256713867
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.ask.com
+    IP: 104.112.44.56
+    RTT: 0.12413907051086426
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.so.com
+    IP: 104.192.110.226
+    RTT: 0.06824755668640137
+    Hops: 22
+    Payload Bytes: 548
+
+Website: www.tokopedia.com
+    IP: 47.74.174.71
+    No response
+
+Website: www.soso.com
+    IP: 118.191.216.57
+    No response
+
+Website: www.detik.com
+    IP: 103.49.221.211
+    RTT: 0.26735854148864746
+    Hops: 17
+    Payload Bytes: 548
+
+Website: www.dailymotion.com
+    IP: 195.8.215.136
+    RTT: 0.09720540046691895
+    Hops: 16
+    Payload Bytes: 548
+
+Website: www.nih.gov
+    IP: 50.16.236.21
+    No response
+
+Website: www.providr.com
+    IP: 104.27.148.33
+    RTT: 0.006280183792114258
+    Hops: 12
+    Payload Bytes: 548
+
+Website: www.salesforce.com
+    IP: 96.43.145.26
+    No response
+
+Website: www.vimeo.com
+    IP: 151.101.64.217
+    No response
+
+Website: www.spotify.com
+    IP: 104.154.127.47
+    RTT: 0.027293920516967773
+    Hops: 19
+    Payload Bytes: 28
+
