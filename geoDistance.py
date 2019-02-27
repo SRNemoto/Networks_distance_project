@@ -72,5 +72,6 @@ def main():
 		print("    Site distance from Cleveland/CWRU: %s\n" % cle_distance)
 
 if __name__ == '__main__':
+	print("Yee Haw")
 	main()
 
